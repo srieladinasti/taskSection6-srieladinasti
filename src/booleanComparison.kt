@@ -1,0 +1,23 @@
+fun main() {
+    var is5Greater3 = (5 > 3)
+    var is3Greater5 = (3 > 5)
+    var is5Greater15 = (5 > 15)
+    var is3Greater15 = (3 > 15)
+    var is15Greater5 = (15 > 5)
+    var is5Equalto5 = (5 == 5)
+    var is3Smaller5 = (3 < 5)
+    var is3Equalto15 = (3 == 15)
+    var is18Greater15 = (18 > 15)
+    var is18Equalto18 = (18 == 18)
+
+    println(is5Greater3)
+    println(is3Greater5)
+    println(is5Greater15)
+    println(is3Greater15)
+    println(is15Greater5)
+    println(is5Equalto5)
+    println(is3Smaller5)
+    println(is3Equalto15)
+    println(is18Greater15)
+    println(is18Equalto18)
+}
